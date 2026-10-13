@@ -25,21 +25,7 @@ The Agriculture Sales Analyzer is a beginner-level Python project that analyzes 
 | Maize | 6500 |
 | Mustard | 4000 |
 
-## Key Results
-- Total Sales: 23500
-- Average Sales: 5875
-- Maximum Sales: 8000
-- Minimum Sales: 4000
-- Best-Selling Crop: Rice
 
-## How to Run
-1. Install Python.
-2. Download or clone this repository.
-3. Open a terminal in the project folder.
-4. Run:
-
-```bash
-python agriculture_sales_analyzer.py
 ```
 
 ## Learning Outcomes
